@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# zsx的电子显微分析复习笔记
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 简介
 
-## Commands
+zsx已经好几周没有去听课了，这样下去是不行的。所以zsx开了一个复习笔记的新坑，用来复习电镜课。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 更新计划及进度
 
-## Project layout
+* 计划一周双更，暂定周三周六
+* 当前进度：0
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 内容参考
+
+- 教材：电子显微分析
+- 课件：lq老师课件
+- 参考书：Transmission Electron Microscopy-A Textbook for Materials Science-2nd Edition
